@@ -1,0 +1,312 @@
+[ {
+	"descricao": "Açúcar",
+	"nielsen_id": 69
+}, {
+	"descricao": "Adoçante em Pó",
+	"nielsen_id": 578
+}, {
+	"descricao": "Adoçante Líquido",
+	"nielsen_id": 70
+}, {
+	"descricao": "Alimentos Infantis",
+	"nielsen_id": 161
+}, {
+	"descricao": "Almôndega",
+	"nielsen_id": 10
+}, {
+	"descricao": "Amendoim",
+	"nielsen_id": 124
+}, {
+	"descricao": "Aromatizantes e Essências Culinários",
+	"nielsen_id": 163
+}, {
+	"descricao": "Arroz",
+	"nielsen_id": 84
+}, {
+	"descricao": "Aveia",
+	"nielsen_id": 85
+}, {
+	"descricao": "Azeite",
+	"nielsen_id": 104
+},
+{
+	"descricao": "Banha",
+	"nielsen_id": 45
+}, {
+	"descricao": "Batata Congelada",
+	"nielsen_id": 11
+}, {
+	"descricao": "Biscoitos",
+	"nielsen_id": 123
+}, {
+	"descricao": "Bolos",
+	"nielsen_id": 126
+},
+{
+	"descricao": "Café em Pó e em Grãos",
+	"nielsen_id": 73
+},
+{
+	"descricao": "Caldas e Coberturas",
+	"nielsen_id": 136
+}, {
+	"descricao": "Caldos",
+	"nielsen_id": 14
+},
+{
+	"descricao": "Carnes Congeladas",
+	"nielsen_id": 13
+}, {
+	"descricao": "Carvão",
+	"nielsen_id": 76
+},
+{
+	"descricao": "Catchup",
+	"nielsen_id": 105
+}, {
+	"descricao": "Cereal em Barras",
+	"nielsen_id": 122
+}, {
+	"descricao": "Cereal Matinal",
+	"nielsen_id": 86
+},
+{
+	"descricao": "Chocolate em Pó",
+	"nielsen_id": 150
+}, {
+	"descricao": "Clara de Ovos",
+	"nielsen_id": 292
+}, {
+	"descricao": "Coalhadas",
+	"nielsen_id": 35
+}, {
+	"descricao": "Coco Ralado",
+	"nielsen_id": 152
+}, {
+	"descricao": "Complemento Alimentar em Pó",
+	"nielsen_id": 579
+}, {
+	"descricao": "Complemento Alimentar Líquido",
+	"nielsen_id": 44
+}, {
+	"descricao": "Condimentos e Especiarias",
+	"nielsen_id": 106
+},
+{
+	"descricao": "Cream Cheese",
+	"nielsen_id": 46
+}, {
+	"descricao": "Creme de Chocolate",
+	"nielsen_id": 141
+}, {
+	"descricao": "Creme de Leite",
+	"nielsen_id": 47
+}, {
+	"descricao": "Creme de Queijo",
+	"nielsen_id": 48
+},
+{
+	"descricao": "Creme Vegetal",
+	"nielsen_id": 51
+},
+{
+	"descricao": "Empanados Congelados",
+	"nielsen_id": 16
+}, {
+	"descricao": "Enlatados e Conservas",
+	"nielsen_id": 79
+}, {
+	"descricao": "Ervilha",
+	"nielsen_id": 87
+}, {
+	"descricao": "Extrato de Tomate",
+	"nielsen_id": 107
+}, {
+	"descricao": "Farinha de Mandioca",
+	"nielsen_id": 88
+}, {
+	"descricao": "Farinha de Trigo",
+	"nielsen_id": 89
+}, {
+	"descricao": "Farinhas e Grãos",
+	"nielsen_id": 83
+}, {
+	"descricao": "Farofa",
+	"nielsen_id": 90
+}, {
+	"descricao": "Feijão",
+	"nielsen_id": 91
+}, {
+	"descricao": "Fermento Biológico Fresco",
+	"nielsen_id": 17
+}, {
+	"descricao": "Fermento Biológico Seco",
+	"nielsen_id": 155
+}, {
+	"descricao": "Fermento Químico",
+	"nielsen_id": 156
+},
+{
+	"descricao": "Fórmula Infantil",
+	"nielsen_id": 162
+},
+{
+	"descricao": "Fubá",
+	"nielsen_id": 92
+}, {
+	"descricao": "Gelatina",
+	"nielsen_id": 144
+},
+{
+	"descricao": "Gelo",
+	"nielsen_id": 82
+}, {
+	"descricao": "Gergelim",
+	"nielsen_id": 93
+}, 
+{
+	"descricao": "Gordura Vegetal",
+	"nielsen_id": 53
+}, {
+	"descricao": "Granola",
+	"nielsen_id": 95
+}, {
+	"descricao": "Grão-de-Bico",
+	"nielsen_id": 96
+},
+{
+	"descricao": "Iogurte",
+	"nielsen_id": 36
+}, 
+{
+	"descricao": "Kibe + Minikibe",
+	"nielsen_id": 27
+}, 
+{
+	"descricao": "Leite com Sabor",
+	"nielsen_id": 33
+}, 
+{
+	"descricao": "Leite Condensado",
+	"nielsen_id": 157
+}, 
+{
+	"descricao": "Leite de Coco",
+	"nielsen_id": 158
+}, 
+{
+	"descricao": "Leite em Pó",
+	"nielsen_id": 101
+}, 
+{
+	"descricao": "Leite Fermentado",
+	"nielsen_id": 37
+}, 
+{
+	"descricao": "Leite UHT",
+	"nielsen_id": 43
+}, 
+{
+	"descricao": "Leites Especiais",
+	"nielsen_id": 42
+}, 
+{
+	"descricao": "Lentilha",
+	"nielsen_id": 97
+}, 
+{
+	"descricao": "Linguiça",
+	"nielsen_id": 8
+}, 
+{
+	"descricao": "Linhaça/Semente de Linhaça",
+	"nielsen_id": 98
+}, 
+{
+	"descricao": "Maionese",
+	"nielsen_id": 112
+}, 
+{
+	"descricao": "Manteiga",
+	"nielsen_id": 54
+}, 
+{
+	"descricao": "Margarina",
+	"nielsen_id": 55
+},
+{
+	"descricao": "Massas Alimentícias",
+	"nielsen_id": 22
+},
+{
+	"descricao": "Massas Instantâneas",
+	"nielsen_id": 102
+},
+{
+	"descricao": "Mel",
+	"nielsen_id": 103
+},
+{
+	"descricao": "Milho para Pipoca",
+	"nielsen_id": 99
+},
+{
+	"descricao": "Misturas para Bolos, Brownies",
+	"nielsen_id": 146
+}, {
+	"descricao": "Molho de Tomate",
+	"nielsen_id": 108
+},
+{
+	"descricao": "Molhos",
+	"nielsen_id": 113
+},	
+{
+	"descricao": "Óleo",
+	"nielsen_id": 116
+},
+{
+	"descricao": "Pão",
+	"nielsen_id": 23
+}, 
+{
+	"descricao": "Peixe Enlatado",
+	"nielsen_id": 80
+},
+{
+	"descricao": "Polpa de Fruta",
+	"nielsen_id": 26
+}, 
+{
+	"descricao": "Queijos",
+	"nielsen_id": 58
+},
+{
+	"descricao": "Rosbife",
+	"nielsen_id": 65
+}, {
+	"descricao": "Sal",
+	"nielsen_id": 117
+}, {
+	"descricao": "Salada de Frutas",
+	"nielsen_id": 130
+},  
+{
+	"descricao": "Sopas",
+	"nielsen_id": 121
+},  
+{
+	"descricao": "Temperos",
+	"nielsen_id": 118
+}, 
+{
+	"descricao": "Tomate Pelado",
+	"nielsen_id": 111
+}, 
+{
+	"descricao": "Vegetal Congelado",
+	"nielsen_id": 21
+}, {
+	"descricao": "Vinagre",
+	"nielsen_id": 119
+}]
